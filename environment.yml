@@ -1,0 +1,30 @@
+name: PyBr19
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - altair
+  - bokeh
+  - cartopy
+  - datashader
+  - descartes
+  - folium
+  - geopandas
+  - geoviews
+  - holoviews
+  - hvplot
+  - ipyleaflet
+  - jupyter
+  - matplotlib
+  - mplleaflet
+  - netcdf4
+  - numpy
+  - palettable
+  - pandas
+  - panel
+  - param
+  - rasterio
+  - shapely
+  - vega
+  - vega_datasets
