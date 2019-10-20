@@ -16,9 +16,11 @@ dependencies:
   - hvplot
   - ipyleaflet
   - jupyter
+  - osmnx
   - pandas
   - pygeos
   - rasterio
   - sat-search
   - shapely
   - toolz
+  - utm
